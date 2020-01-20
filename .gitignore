@@ -1,0 +1,27 @@
+.DS_Store
+
+# User data
+.minecraft/saves
+.minecraft/mods/mamiyaotaru
+.minecraft/screenshots
+.minecraft/logs
+.minecraft/crash-reports
+
+# Fabric
+.minecraft/mods/*.jar
+.minecraft/.fabric
+.minecraft/.mixin.out
+
+# MultiMC
+.minecraft/icon.png
+mmc-pack.json
+
+# Atlases
+.minecraft/chooser_0.png
+.minecraft/mobs_0.png
+.minecraft/pings_0.png
+.minecraft/waypoints_0.png
+
+# Caches
+.minecraft/realms_persistence.json
+.minecraft/usercache.json
